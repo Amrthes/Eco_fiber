@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "public": true,
-  "buildCommand": "python scripts/build_vercel.py",
-  "outputDirectory": "public",
-  "routes": [
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/api/(.*)",
+      "destination": "/api/index.py"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
