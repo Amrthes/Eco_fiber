@@ -1,0 +1,8 @@
+.venv
+.pytest_cache
+data/Statistics
+data/raw/fixtures
+tests
+Raw Data
+*.pyc
+__pycache__
