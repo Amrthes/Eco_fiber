@@ -35,6 +35,3 @@ where = ["src"]
 testpaths = ["tests"]
 addopts = "-ra"
 
-[tool.vercel]
-entrypoint = "api/index.py"
-
