@@ -1,8 +1,16 @@
 """EcoFiber AI — Interactive Research & Demonstration Dashboard."""
 
 import json
+import sys
 from dataclasses import asdict
 from pathlib import Path
+
+# Ensure src/ is in sys.path across all environments (local, Stlite, Vercel, Streamlit Cloud)
+SRC_PATH = str(Path(__file__).parents[1] / "src")
+if SRC_PATH not in sys.path:
+    sys.path.insert(0, SRC_PATH)
+if "src" not in sys.path:
+    sys.path.insert(0, "src")
 
 import numpy as np
 import pandas as pd

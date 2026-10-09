@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "public": true,
+  "buildCommand": "python scripts/build_vercel.py",
+  "outputDirectory": "public",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
