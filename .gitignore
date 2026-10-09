@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Environments and local configuration
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Generated data and models
+data/processed/*
+!data/processed/.gitkeep
+models/
+
+# Notebook and editor state
+.ipynb_checkpoints/
+.vscode/

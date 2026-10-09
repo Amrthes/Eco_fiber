@@ -1,0 +1,2 @@
+record_id,source_type,source_id,test_type,measured_value,measured_unit
+ARTIFICIAL-FIXTURE-MISSING,experimental,,tensile_strength,10.5,MPa

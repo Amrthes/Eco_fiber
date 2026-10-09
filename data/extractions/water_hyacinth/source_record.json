@@ -1,0 +1,74 @@
+{
+  "source_id": "WH-EPOXY-SULARDJAKA-2023",
+  "title": "The effect of alkalization and esterification treatment on mechanical properties of water hyacinth fiber reinforced epoxy-resin composite",
+  "authors": [
+    "Sulardjaka Sulardjaka",
+    "Norman Iskandar",
+    "Parlindungan Manik",
+    "Dwi Satrio Nurseto"
+  ],
+  "journal": "Eastern-European Journal of Enterprise Technologies 1 (12(121))",
+  "year": 2023,
+  "pages": "26-33",
+  "doi": "10.15587/1729-4061.2023.274064",
+  "material_family": "water hyacinth / epoxy (NOT Ipomoea carnea)",
+  "source_evidence": "The article PDF deposited at Zenodo record 7746959 under CC BY 4.0 was downloaded, its text and result figures were inspected, and the six workbook text rows were checked against the paper.",
+  "verification_status": "full_text_inspected",
+  "metadata_checked": {
+    "date": "2026-10-09",
+    "records": [
+      "https://api.crossref.org/works/10.15587%2F1729-4061.2023.274064",
+      "https://api.openalex.org/works/https://doi.org/10.15587/1729-4061.2023.274064"
+    ],
+    "abstract_scope": "The abstract states 2%, 5%, and 10% NaOH treatments, acetate-anhydride esterification, 15%, 25%, and 35% fibre loadings, hand lay-up, 5 MPa compaction, ASTM D3039 tensile testing, and density by Archimedes method. Section 4.2 lists only 5% and 10% NaOH; this abstract/methods discrepancy is unresolved."
+  },
+  "publisher_full_text_url": "https://journals.uran.ua/eejet/article/download/274064/269594",
+  "publisher_access_attempts": [
+    {
+      "url": "https://journals.uran.ua/eejet/article/view/274064",
+      "outcome": "Timed out on 2026-10-09."
+    },
+    {
+      "url": "https://journals.uran.ua/eejet/article/download/274064/269594",
+      "outcome": "Timed out on 2026-10-09."
+    },
+    {
+      "url": "https://journals.uran.ua/eejet/article/view/274064/268879",
+      "outcome": "Transport-level failure on 2026-10-09."
+    }
+  ],
+  "alternate_full_text_location": {
+    "discovery_source": "OpenAlex work W4323833504",
+    "repository": "Zenodo",
+    "repository_url": "https://zenodo.org/records/7746959",
+    "version": "submittedVersion",
+    "license": "CC BY 4.0 (Zenodo record metadata: cc-by-4.0)",
+    "api_record": "https://zenodo.org/api/records/7746959",
+    "file_name": "The effect of alkalization and esterification treatment on mechanical properties of water hyacinth fiber reinforced epoxy-resin composite.pdf",
+    "download_url": "https://zenodo.org/api/records/7746959/files/The%20effect%20of%20alkalization%20and%20esterification%20treatment%20on%20mechanical%20properties%20of%20water%20hyacinth%20fiber%20reinforced%20epoxy-resin%20composite.pdf/content",
+    "local_copy": "data/raw/literature/full_text/WH-EPOXY-SULARDJAKA-2023.pdf",
+    "file_size_bytes": 2595401,
+    "md5": "64a04a42aad53169c61316d227a5fbe2",
+    "access_attempt": "Zenodo API record and PDF downloaded successfully on 2026-10-09."
+  },
+  "full_text_inspection": {
+    "date": "2026-10-09",
+    "pdf_pages": 8,
+    "bibliography_and_identity": "PDF p.1 (journal p.26): title, four-author byline, journal, DOI, dates; Zenodo record/API 7746959 confirms CC BY 4.0 and file checksum.",
+    "materials_and_methods": "PDF p.3 (journal p.28), Sections 4.2-4.3: Eichhornia crassipes; mechanically extracted strands from 50-70 cm stems, iron-brushed and sun-dried; Bakelite EPR 174 epoxy and V-140 hardener; 5%/10% NaOH or esterification for 24 h, then wash and sun-dry; hand lay-up, 0/15/25/35 wt%, mould 250 x 185 x 10 mm, 5 MPa compaction, water-jet cutting; ASTM D3039 composites and ASTM D638 epoxy; six specimens per parameter.",
+    "results_and_figures": "PDF p.4 (journal p.29), Section 5.3; PDF p.5 (journal p.30), Figure 6; PDF p.6 (journal p.31), discussion and Conclusion 3. Textual tensile values and three 35 wt% text/Figure 6 disagreements were checked. Figure 6 has no numeric point labels or error bars; graph values remain estimates.",
+    "other_targets": "No paper-specific flexural strength, impact resistance, or water absorption results found. Density, porosity, fibre thickness, and elongation are reported but are not substituted for those targets.",
+    "limitations": "No specimen-level data, reported mean/SD, or Figure 6 error bars. The paper states six specimens per parameter but does not identify the statistic represented by each reported value. Abstract says 2%, 5%, and 10% NaOH while Section 4.2 says only 5% and 10%. Treatment is variously called acetate anhydride and CH3COOH (acetic acid); identity remains unresolved. Three 35 wt% textual tensile values conflict with Figure 6 estimates."
+  },
+  "specimen_level_data": false,
+  "text_reported_rows_transcribed": 6,
+  "fibre_composite_rows_transcribed": 5,
+  "matrix_only_classification": "The 0 wt% row is classified as matrix-only by inference from the workbook's interpretation of the figure; this is not stated explicitly in the text.",
+  "graph_estimates": 4,
+  "graph_estimates_rechecked_against_primary_figure": true,
+  "conflict_records": 4,
+  "unresolved_35wt_conflicts": 3,
+  "text_values_confirmed_against_primary_text": 6,
+  "text_figure_conflicts_confirmed": 3,
+  "fulltext_independently_checked": true
+}

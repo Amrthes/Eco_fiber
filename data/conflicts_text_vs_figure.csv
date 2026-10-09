@@ -1,0 +1,5 @@
+conflict_id,treatment,loading_wt_pct,text_value,fig6_estimate,status
+WHC01,untreated,35,67 MPa (p.29; p.31 Concl.3),~54 MPa,UNRESOLVED
+WHC02,5% NaOH,35,51 MPa (p.29; p.31 Concl.3; '12% reduction'),"~59 MPa (curve rises, not falls)",UNRESOLVED
+WHC03,10% NaOH,35,35 MPa (p.30; p.31 Concl.3),~42 MPa,UNRESOLVED
+WHC04,AA,35,~65 MPa derived from '7%' (not stated as a number),~64-65 MPa,consistent but estimate only

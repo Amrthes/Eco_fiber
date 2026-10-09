@@ -1,0 +1,5 @@
+id,item,statement_a,statement_b,handling
+BAI01,fibre length,"Sec 3 text (p.2): 4, 7, 10 mm","Table 1 (p.2) and chart (p.3): 6, 8, 12 mm",Chart/Table 1 labels used; unresolved
+BAI02,fibre loading,"Sec 3 text (p.2): 10, 20, 30 wt%","Table 1 and chart: 15, 30, 45 wt%",Chart/Table 1 labels used; unresolved
+BAI03,reported tests,"Sec 4-5 and abstract: tensile, flexural, impact, hardness",Only tensile and hardness charts present,Flexural/impact results absent
+BAI04,results format,Sec 5: properties 'tabulated below',No results table in PDF or RTF (RTF 'Table 2-5' hits are Word style names),No directly reported numeric values

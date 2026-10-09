@@ -1,0 +1,27 @@
+{
+  "source_id": "BAMBOO-EPOXY-RAMARAO-2018",
+  "title": "Bamboo Fiber Based Polymer Composites Synthesis Mechanical Characterization",
+  "authors": [
+    "M. Ramarao",
+    "A. Ravi Kiran",
+    "G. Mallikharjuna",
+    "B. Jamal Vali",
+    "J. V. Mohanachari"
+  ],
+  "journal": "Journal of Advancement in Engineering and Technology",
+  "volume_issue": "6 (1)",
+  "article_id": "V6I1.01",
+  "year": 2018,
+  "issn": "2348-2931",
+  "doi": "10.5281/zenodo.1163658",
+  "pdf_pages": 4,
+  "license": "CC BY",
+  "files_inspected": [
+    "JAETV6I101.pdf (4 pp.)",
+    "JAETV6I101.rtf (33 MB; same article)"
+  ],
+  "specimen_level_data": false,
+  "directly_reported_tensile_values": 0,
+  "material_family": "bamboo/epoxy (NOT water hyacinth, NOT Ipomoea carnea)",
+  "fulltext_accessed": true
+}

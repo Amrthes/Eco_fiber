@@ -1,0 +1,41 @@
+{
+  "source_id": "BAMBOO-EPOXY-RAMARAO-2018",
+  "title": "Bamboo Fiber Based Polymer Composites Synthesis Mechanical Characterization",
+  "authors": [
+    "M. Ramarao",
+    "A. Ravi Kiran",
+    "G. Mallikharjuna",
+    "B. Jamal Vali",
+    "J. V. Mohanachari"
+  ],
+  "journal": "Journal of Advancement in Engineering and Technology",
+  "volume_issue": "6 (1)",
+  "article_id": "V6I1.01",
+  "year": 2018,
+  "publication_date_in_paper": "2018-01-10",
+  "repository_issue_date": "2018-01-31",
+  "issn": "2348-2931",
+  "doi": "10.5281/zenodo.1163658",
+  "license": "CC BY 4.0",
+  "repository_record": "https://zenodo.org/records/1163658",
+  "pdf_pages": 4,
+  "files_inspected": [
+    "JAETV6I101.pdf (4 pp.; downloaded from Zenodo and inspected)",
+    "data/raw/literature/full_text/BAMBOO-EPOXY-RAMARAO-2018.pdf (same PDF; retained locally, MD5 6cd8a9f56a4eb244ecf928c4331a1395)",
+    "JAETV6I101.rtf (33 MB; listed in the same Zenodo record, not separately inspected)"
+  ],
+  "verification_status": "full_text_inspected",
+  "full_text_inspection": {
+    "date": "2026-10-09",
+    "source": "https://zenodo.org/records/1163658",
+    "pages_inspected": "1-4",
+    "citation_checked": "PDF page 1 author list and journal details; PDF page 4 citation and DOI",
+    "methods_checked": "PDF page 2, Section 3, Table 1, and Section 4",
+    "results_checked": "PDF pages 3-4, Sections 5-6 and figures; the nine tensile-chart bars on p.3 were visually re-read against the 2 MPa grid and agree with the existing approximate values 12/13/14, 14/15/16, and 16/18/19 MPa at 6/8/12 mm and 15/30/45 wt%, respectively.",
+    "limitations": "No numeric tensile results table is present; all nine values remain graph estimates rather than directly reported values. Section 3 prose and Table 1/chart disagree on fibre length and loading. The chart has no error bars or replicate statistics."
+  },
+  "specimen_level_data": false,
+  "directly_reported_tensile_values": 0,
+  "material_family": "bamboo/epoxy (NOT water hyacinth, NOT Ipomoea carnea)",
+  "fulltext_accessed": true
+}

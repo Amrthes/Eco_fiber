@@ -1,0 +1,2 @@
+record_id,source_type,source_id,test_type,measured_value,measured_unit,fibre_type,matrix_type,test_standard,notes
+ARTIFICIAL-FIXTURE-VALID,experimental,ARTIFICIAL-FIXTURE-STUDY,tensile_strength,10.5,MPa,ARTIFICIAL-FIBRE,ARTIFICIAL-EPOXY,ARTIFICIAL-STANDARD,ARTIFICIAL TEST FIXTURE ONLY
